@@ -1,11 +1,11 @@
 <template>
-    <div class="login">
+    <div class="loginPage">
         <amplify-authenticator></amplify-authenticator>
     </div>
 </template>
 
 <script>
     export default {
-        name: 'login'
+        name: 'loginPage'
     }
 </script>
